@@ -1,8 +1,8 @@
-1.将以下三个地址配置进高级系统设置-环境变量-系统变量
-C:\ProgramData\anaconda3
-C:\ProgramData\anaconda3\Lib
-C:\ProgramData\anaconda3\Scripts
-C:\ProgramData\anaconda3\Library\bin
+1.将以下几个地址配置进高级系统设置-环境变量-系统变量  
+C:\ProgramData\anaconda3  
+C:\ProgramData\anaconda3\Lib  
+C:\ProgramData\anaconda3\Scripts  
+C:\ProgramData\anaconda3\Library\bin  
 
 1.运行conda，安装新的虚拟环境  
 conda create -n [NAME] python=*.*  
